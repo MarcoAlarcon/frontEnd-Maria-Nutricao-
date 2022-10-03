@@ -2,7 +2,7 @@
 
 > Link do github pages: https://marcoalarcon.github.io/frontEnd-Apresentacao/
 
-Alguns conseitos abordados usando JavaScript:
+Alguns conceitos abordados usando JavaScript:
   - Buscar e manipular tags, classes e id's HTML com o DOM
   - Manipular estilos css com a propriedade ClassList
   - Manipular, inserir e deletar dados de uma tabela através de metodos appendChild, eventListenners
