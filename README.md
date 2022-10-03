@@ -1,6 +1,6 @@
 <small> BR </small>
 
-> Link do github pages: https://marcoalarcon.github.io/frontEnd-Skate-Social/
+> Link do github pages: https://marcoalarcon.github.io/frontEnd-Maria-Nutricao-/
 
 Alguns conceitos abordados usando JavaScript:
   - Buscar e manipular tags, classes e id's HTML com o DOM
@@ -15,7 +15,7 @@ Espero que gostem! :nerd_face:
 
 <small> EN </small>
 
-> Link for github pages: https://marcoalarcon.github.io/frontEnd-Skate-Social/
+> Link for github pages: https://marcoalarcon.github.io/frontEnd-Maria-Nutricao-/
 
 Some of the concepts covered using JavaScript:
   - Search and manipulate HTML tags, classses and id's usind DOM
