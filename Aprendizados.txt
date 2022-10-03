@@ -1,0 +1,6 @@
+JAVASCRIPT:
+	-Buscar e manipular tags, classes e id's HTML com o DOM
+	-Manipular estilos css com a propriedade ClassList
+	-Manipular, inserir e deletar dados de uma tabela através de motodos appendChild, eventListenners
+	-Filtrar itens de uma tabela usando Expressões regulares (Regex)
+	-Requisições HTTP para servidores externos através do metódo AJAX.
